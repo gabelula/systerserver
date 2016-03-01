@@ -1,2 +1,3 @@
-# systerserver
-Documentation for the server run by us women.
+# Systerserver
+
+Website and Documentation for the Syster Server project.
